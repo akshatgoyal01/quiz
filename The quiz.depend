@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1615535005 source:c:\users\hp\desktop\the quiz\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+

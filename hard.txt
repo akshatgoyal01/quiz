@@ -1,0 +1,30 @@
+Which of the following creates a List of 3 visible items and multiple selections abled?
+
+()Anew List(false, 3)
+(B)New List(3, true)
+(C)new List(true, 3)
+(D)new List(3, false)                          1
+Which of the following for loop declaration is not valid?
+
+(A)for ( int i = 99; i >= 0; i / 9 )
+(B)for ( int i = 7; i <= 77; i += 7 )
+(C)for ( int i = 20; i >= 2; - -i )
+(D)for ( int i = 2; i <= 20; i = 2* i )         2
+ Which method of the Class.class is used to determine the name of a class represented by the class object as a String?
+
+(A)getClass()
+(B)intern()
+(C)getName()
+(D)toString()                                   2
+In which process, a local variable has the same name as one of the instance variables?
+
+(A)Serialization
+(B)Variable Shadowing
+(C)Abstraction
+(D)Multi-threading                              3
+ Which package contains the Random class?
+
+(A)java.util package
+(B)java.lang package
+(C)java.awt package
+(D)java.io package                               1

@@ -1,0 +1,28 @@
+Which of the following option leads to the portability and security of Java?
+(a)Bytecode is executed by JVM 
+(b)The applet makes the Java code secure and portable
+(c)Use of exception handling
+(d)Dynamic binding between objects                           1
+Which of the following is not a Java features?
+(A)Dynamic
+(B)Architecture Neutral
+(C)Use of pointers
+(D)Object-oriented                                           2
+_____ is used to find and fix bugs in the Java programs.
+
+(A)JVM
+(B)JRE
+(C)JDK
+(D)JDB                                                       2
+Which of the following is a valid declaration of a char?
+
+(A)char ch = '\utea';
+(B)char ca = 'tea';
+(C)char cr = \u0223;
+(D)char cc = '\itea';                                        3
+What is the return type of the hashCode() method in the Object class?
+
+(A)Object
+(B)int
+(C)long
+(D)void                                                       4
